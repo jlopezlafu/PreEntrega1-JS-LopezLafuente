@@ -16,9 +16,9 @@ class NewProduct {
   }
 }
 const camiseta = new NewProduct(1, "camiseta", 9000, 50);
-const short = new NewProduct(2, "short", 5000, 40);
+const short = new NewProduct(2, "short", 4000, 40);
 const pantalon = new NewProduct(3, "pantalon", 4500, 20);
-const computador = new NewProduct(4, "buzo", 4700, 15);
+const computador = new NewProduct(4, "buzo", 5700, 32);
 
 /* Ciclos */
 while (seguirComprando === true) {
